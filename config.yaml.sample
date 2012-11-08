@@ -1,0 +1,6 @@
+types:
+- type: MISC
+  format: $!{author}. "$!{title}". $!{potato}
+
+- type: ARTICLE
+  format: '$!{author}. "$!{title}". $!{journal} ${volume} (${year}): ${pages}.'
